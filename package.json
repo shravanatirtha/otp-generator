@@ -1,0 +1,28 @@
+{
+  "name": "otp-generator",
+  "version": "1.0.0",
+  "description": "OTP generator written in NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shravanatirtha/otp-generator.git"
+  },
+  "keywords": [
+    "nodejs",
+    "otp-generator",
+    "email",
+    "mobile"
+  ],
+  "author": "Shravana Tirtha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shravanatirtha/otp-generator/issues"
+  },
+  "homepage": "https://github.com/shravanatirtha/otp-generator#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
